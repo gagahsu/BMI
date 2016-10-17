@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">BMI計算器</string>
+    <string name="age">年齡：</string>
+    <string name="sex">性別：</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="height">身高：</string>
+    <string name="weight">體重：</string>
+
+    <string-array name="height">
+      <item>公分</item>
+      <item>公尺</item>
+    </string-array>>
+
+    <string-array name="weight">
+        <item>公斤</item>
+        <item>磅</item>
+    </string-array>>
+
+    <string name="underWt">過輕</string>
+    <string name="nomalWt">正常</string>
+    <string name="overWt">過重</string>
+    <string name="fat">肥胖</string>
+
+    <string name="calculate">計算</string>
+</resources>
